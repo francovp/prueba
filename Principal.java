@@ -21,7 +21,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 
 		//Conexion a la base de datos de Postgres
-		Database bd = new Database();
+		//Database bd = new Database();
 
 		Compania datosEmpresa = null; // Aqui­ se guardaran los datos de la clase empresa
 
